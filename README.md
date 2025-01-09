@@ -1,19 +1,47 @@
-# Task 2 : SIMPLE CALCULATOR
+# ViLearnx Task 2 - Simple Calculator
 
-In this project, I developed a simple yet functional calculator using Python. The calculator is designed to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. The project focuses on applying core programming concepts like control structures, user input handling, and basic error checking, all implemented in a user-friendly command-line interface.
-
+## Overview
+ViLearnx Task 2 is a simple calculator application developed in Python. It performs basic arithmetic operations including addition, subtraction, multiplication, and division, with error handling for division by zero.
 
 ## Features
+- **Addition**: Adds two numbers.
+- **Subtraction**: Subtracts one number from another.
+- **Multiplication**: Multiplies two numbers.
+- **Division**: Divides one number by another, with error handling for division by zero.
 
-- Addition: Adds two numbers.
+## Requirements
+- Python 3.x
 
-- Subtraction: Subtracts one number from another.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Deepak-L-coder/ViLearnx-Task-2.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ViLearnx-Task-2
+   ```
 
-- Multiplication: Multiplies two numbers
+## Usage
+Run the calculator application:
+```bash
+python calculator.py
+```
+Follow the prompts to perform calculations.
 
-- Division: Divides one number by another, with error handling for division by zero.
+## Error Handling
+The application includes error handling for:
+- Division by zero
+- Invalid input
 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+Deepak L. Coder
 
 
 
